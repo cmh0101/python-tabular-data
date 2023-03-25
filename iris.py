@@ -28,7 +28,7 @@ plt.xlabel("Petal length (cm)")
 plt.ylabel("Sepal length (cm)")
 plt.legend()
 plt.savefig("versicolor_petal_v_sepal_length_regress.png")
-quit()
+
 
 
 #setosa
@@ -45,7 +45,7 @@ plt.xlabel("Petal length (cm)")
 plt.ylabel("Sepal length (cm)")
 plt.legend()
 plt.savefig("setosa_petal_v_sepal_length_regress.png")
-quit()
+
 
 #virginica
 
